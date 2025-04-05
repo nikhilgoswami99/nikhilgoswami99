@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I am a passionate **Full Stack Developer** current
 ---
 
 ## 📫 Connect with Me  
-- 🌐 **Portfolio:** https://my-portfolio-nikhil-goswamis-projects.vercel.app/  
+- 🌐 **Portfolio:** https://portfolio-nikhil-goswamis-projects.vercel.app/  
 - 💼 **LinkedIn:** https://www.linkedin.com/in/nikhil-goswami-067547214/  
 
 Let's connect and collaborate! 🚀  
